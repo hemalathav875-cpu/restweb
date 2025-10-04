@@ -98,7 +98,7 @@ contact.html
 </section>
 
 <footer class="site-footer">
-  <div class="footer-left">Designed by <strong>SWATHI P N</strong></div>
+  <div class="footer-left">Designed by <strong>HEMA</strong></div>
   <div class="footer-right">© 2025 Little Lemon</div>
 </footer>
 
@@ -194,7 +194,7 @@ menu.html
 </body>
 </html>
 
-style.css
+styles.css
 /* ==== RESET & BASE ==== */
 * {
   box-sizing: border-box;
@@ -689,10 +689,9 @@ h1 {
 
 
 ## OUTPUT:
-screenshot.png
-Screenshot 2025-10-03 085124.png
-Screenshot 2025-10-03 085138.png
-Screenshot 2025-10-03 085155.png
-
+![alt text](<hema/Oct 3, 2025, 08_56_51 AM.png>)
+![alt text](<Screenshot 2025-10-04 092308.png>)
+![alt text](<Screenshot 2025-10-04 092324.png>)
+![alt text](<Screenshot 2025-10-04 092341.png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
