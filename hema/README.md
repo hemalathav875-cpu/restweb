@@ -28,6 +28,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
+~~~
 administration.html
 <!DOCTYPE html>
 <html>
@@ -50,17 +51,17 @@ administration.html
 
 <div class="admin-container">
   
-  <div class="admin-card"><img src="admin1.png"><h3>John Smith</h3><p>Manager</p></div>
-  <div class="admin-card"><img src="admin2.png"><h3>Jane Doe</h3><p>Head Chef</p></div>
-  <div class="admin-card"><img src="admin3.png"><h3>Mike Johnson</h3><p>Marketing</p></div>
-  <div class="admin-card"><img src="admin4.png"><h3>Sara Lee</h3><p>Accountant</p></div>
-  <div class="admin-card"><img src="admin5.png"><h3>Tom Clark</h3><p>Operations</p></div>
-  <div class="admin-card"><img src="admin6.png"><h3>Nina Patel</h3><p>Support</p></div>
+  <div class="admin-card"><img src="admin1.jpg"><h3>John Smith</h3><p>Manager</p></div>
+  <div class="admin-card"><img src="admin2.jpg"><h3>Jane Doe</h3><p>Head Chef</p></div>
+  <div class="admin-card"><img src="admin3.jpg"><h3>Mike Johnson</h3><p>Marketing</p></div>
+  <div class="admin-card"><img src="admin4.jpg"><h3>Sara Lee</h3><p>Accountant</p></div>
+  <div class="admin-card"><img src="admin5.jpg"><h3>Tom Clark</h3><p>Operations</p></div>
+  <div class="admin-card"><img src="admin6.jpg"><h3>Nina Patel</h3><p>Support</p></div>
 </div>
 
 
 <footer class="site-footer">
-  <div class="footer-left">Designed by <strong>SWATHI P N</strong></div>
+  <div class="footer-left">Designed by <strong>HEMA</strong></div>
   <div class="footer-right">© 2025 Little Lemon</div>
 </footer>
 
@@ -118,7 +119,7 @@ index.html
 
 <header class="site-header">
   <div class="logo">
-    <img src="logo.png" alt="THE LITTLE LEMON">
+    <img src="logo.jpg" alt="THE LITTLE LEMON">
     <h1>Little Lemon</h1>
   </div>
 </header>
@@ -171,18 +172,18 @@ menu.html
 <div class="main-gallery">
   <!-- 12 Food Items -->
    <div class="photo-grid">
-  <div class="menu-item"><img src="food1.png"><h3>Pizza</h3><p>$10.00</p></div>
-  <div class="menu-item"><img src="food2.png"><h3>Burger</h3><p>$7.00</p></div>
-  <div class="menu-item"><img src="food3.png"><h3>Pasta</h3><p>$8.00</p></div>
-  <div class="menu-item"><img src="food4.png"><h3>Sushi</h3><p>$12.00</p></div>
-  <div class="menu-item"><img src="food5.png"><h3>Salad</h3><p>$6.00</p></div>
-  <div class="menu-item"><img src="food6.png"><h3>Steak</h3><p>$15.00</p></div>
-  <div class="menu-item"><img src="food7.png"><h3>Tacos</h3><p>$5.00</p></div>
-  <div class="menu-item"><img src="food8.png"><h3>Fries</h3><p>$3.00</p></div>
-  <div class="menu-item"><img src="food9.png"><h3>Wrap</h3><p>$6.50</p></div>
-  <div class="menu-item"><img src="food10.png"><h3>Sandwich</h3><p>$4.50</p></div>
-  <div class="menu-item"><img src="food11.png"><h3>Ice Cream</h3><p>$2.50</p></div>
-  <div class="menu-item"><img src="food12.png"><h3>Milkshake</h3><p>$3.50</p></div>
+  <div class="menu-item"><img src="food1.jpg"><h3>Pizza</h3><p>$10.00</p></div>
+  <div class="menu-item"><img src="food2.jpg"><h3>Burger</h3><p>$7.00</p></div>
+  <div class="menu-item"><img src="food3.jpg"><h3>Pasta</h3><p>$8.00</p></div>
+  <div class="menu-item"><img src="food4.jpg"><h3>Sushi</h3><p>$12.00</p></div>
+  <div class="menu-item"><img src="food5.jpg"><h3>Salad</h3><p>$6.00</p></div>
+  <div class="menu-item"><img src="food6.jpg"><h3>Steak</h3><p>$15.00</p></div>
+  <div class="menu-item"><img src="food7.jpg"><h3>Tacos</h3><p>$5.00</p></div>
+  <div class="menu-item"><img src="food8.jpg"><h3>Fries</h3><p>$3.00</p></div>
+  <div class="menu-item"><img src="food9.jpg"><h3>Wrap</h3><p>$6.50</p></div>
+  <div class="menu-item"><img src="food10.jpg"><h3>Sandwich</h3><p>$4.50</p></div>
+  <div class="menu-item"><img src="food11.jpg"><h3>Ice Cream</h3><p>$2.50</p></div>
+  <div class="menu-item"><img src="food12.jpg"><h3>Milkshake</h3><p>$3.50</p></div>
 </div>
 </div>
 <footer class="site-footer">
@@ -313,7 +314,7 @@ nav ul li a.active {
 /* ==== BIGGER BANNER FOR HOME ONLY ==== */
 .banner {
   position: relative;
-  background: url('banner.png') no-repeat center center/cover;
+  background: url('banner.jpg') no-repeat center center/cover;
   height: 500px; /* Bigger banner */
   margin: 40px auto;
   border-radius: 16px;
@@ -689,7 +690,8 @@ h1 {
 
 
 ## OUTPUT:
-![alt text](<hema/Oct 3, 2025, 08_56_51 AM.png>)
+![alt text](../hema.png)
+
 ![alt text](<Screenshot 2025-10-04 092308.png>)
 ![alt text](<Screenshot 2025-10-04 092324.png>)
 ![alt text](<Screenshot 2025-10-04 092341.png>)
